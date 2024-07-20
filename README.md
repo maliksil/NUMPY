@@ -1,6 +1,4 @@
 
-# Project Title
-
 ## NUMPY
 
 #### What is NumPy
